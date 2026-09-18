@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "io.dbx.apicat",
+  "publisher": "nintycat",
+  "version": "0.1.3",
+  "name": "Apicat",
+  "description": "在 DBX 里调试 HTTP 接口：接口集合树、完整请求历史（参数与响应一并留存）、cURL 互转、代码生成，分栏可拖拽，剪贴板与右键菜单都可用。",
+  "icon": "https://raw.githubusercontent.com/NintyCat/dbx-plugin-apicat/v0.1.3/assets/plugin.svg",
+  "tags": [
+    "http",
+    "api",
+    "rest",
+    "testing",
+    "debug"
+  ],
+  "permissions": [],
+  "source": "https://github.com/NintyCat/dbx-plugin-apicat/tree/v0.1.3",
+  "homepage": "https://github.com/NintyCat/dbx-plugin-apicat",
+  "license": "Apache-2.0",
+  "releaseNotes": "首个 Apicat 版本：接口集合管理、请求历史回放、cURL 导入导出、代码生成、可拖拽分栏与快捷右键菜单。",
+  "targets": [
+    {
+      "target": "darwin-arm64",
+      "url": "https://github.com/NintyCat/dbx-plugin-apicat/releases/download/v0.1.3/io.dbx.apicat-0.1.3-darwin-arm64.dbxp",
+      "sha256": "998bb78b4733e098e6b6b50ff6b64a2c8af91fcde40c7c3bf5053b81e3f6f90d",
+      "size": 5731750
+    },
+    {
+      "target": "darwin-x64",
+      "url": "https://github.com/NintyCat/dbx-plugin-apicat/releases/download/v0.1.3/io.dbx.apicat-0.1.3-darwin-x64.dbxp",
+      "sha256": "7166ba5f424322380db5a34c7882e571337c3446588adbbcde079cdcb2c75b64",
+      "size": 5949854
+    },
+    {
+      "target": "linux-arm64",
+      "url": "https://github.com/NintyCat/dbx-plugin-apicat/releases/download/v0.1.3/io.dbx.apicat-0.1.3-linux-arm64.dbxp",
+      "sha256": "4047bc2223e1fb1358e37e197bc0a1ec92b01912dca6b6617abf866293fda0f5",
+      "size": 5732453
+    },
+    {
+      "target": "linux-x64",
+      "url": "https://github.com/NintyCat/dbx-plugin-apicat/releases/download/v0.1.3/io.dbx.apicat-0.1.3-linux-x64.dbxp",
+      "sha256": "7dce280d8e9e22ee0e5812c519dd622d218fcf42fd49ef331996affb4af311f0",
+      "size": 6022599
+    },
+    {
+      "target": "windows-arm64",
+      "url": "https://github.com/NintyCat/dbx-plugin-apicat/releases/download/v0.1.3/io.dbx.apicat-0.1.3-windows-arm64.dbxp",
+      "sha256": "5c01d5fafd561b93fb731910514098331db8587ee5db9b4ad9281d8b547d5da4",
+      "size": 5718956
+    },
+    {
+      "target": "windows-x64",
+      "url": "https://github.com/NintyCat/dbx-plugin-apicat/releases/download/v0.1.3/io.dbx.apicat-0.1.3-windows-x64.dbxp",
+      "sha256": "0ebade1a4ccc8097eeb1edf20da0577f9cfe8571f076a77d758445598f9e7aef",
+      "size": 6044851
+    }
+  ]
+}
