@@ -40,6 +40,11 @@
       "repository": "yaoxinghuo/dbx-dev-tools",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
+    },
+    {
+      "repository": "NintyCat/dbx-plugin-apicat",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
     }
   ]
 }
