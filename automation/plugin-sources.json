@@ -42,6 +42,16 @@
       "autoUpdate": true
     },
     {
+      "repository": "renpengkai/dbx-plugin-http-client",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
+    },
+    {
+      "repository": "Abeautifulsnow/dbx-plugin-api-studio",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
+    },
+    {
       "repository": "NintyCat/dbx-plugin-NintyAPI",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
