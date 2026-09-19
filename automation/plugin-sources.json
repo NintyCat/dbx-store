@@ -42,7 +42,7 @@
       "autoUpdate": true
     },
     {
-      "repository": "NintyCat/dbx-plugin-apicat",
+      "repository": "NintyCat/dbx-plugin-NintyAPI",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
     }
